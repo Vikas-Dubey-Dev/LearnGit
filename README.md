@@ -1,1 +1,1 @@
-# LearnGit
+#This is the sample text file
