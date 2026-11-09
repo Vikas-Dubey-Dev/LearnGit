@@ -1,0 +1,27 @@
+>>For First time configure the system
+
+>>Open Path in CMD where your text file is created 
+
+git config --global user.name "Vikas-Dubey-Dev"
+git config --global user.email "vkdubey987@gmail.com"
+
+
+git config --global color.ui auto
+
+>>Mandatory commands:
+    git init
+    git remote add origin https://github.com/Vikas-Dubey-Dev/LearnGit.git
+
+    git pull origin main
+
+    >>To pushh the file
+
+    git status
+
+
+    git file1Name File /Push 1 file
+    git add . //Pushh all the file
+
+    git status
+    git commit m "Commit messege"
+    git push
